@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023513077199",
+    "firebase_url": "https://birdto426.firebaseio.com",
+    "project_id": "birdto426",
+    "storage_bucket": "birdto426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023513077199:android:b37fdc0c9234f2db4b5eba",
+        "android_client_info": {
+          "package_name": "com.example.birdto426"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023513077199-ee6c1havh2psjtokmo19l9ruckiarlla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.birdto426",
+            "certificate_hash": "d742845045fda8be82f980605e6b9e23960527f4"
+          }
+        },
+        {
+          "client_id": "1023513077199-ks39i89jenpp8colfer0geg7kfq14olj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAecaUbq1LYhaHs7Y0EONsdIVp7_gYogU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023513077199-ks39i89jenpp8colfer0geg7kfq14olj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
